@@ -1,0 +1,116 @@
+{
+    "heroes": [
+        {
+            "nombre": "Mark Greyson",
+            "imagen":"https://artfiles.alphacoders.com/143/thumb-143076.jpg" ,
+            "edad": 17,
+            "habilidades": [
+                "Fuerza sobrehumana",
+                "Durabilidad sobrehumana",
+                "Regeneración celular",
+                "Vuelo"
+            ],
+            "debilidades": [
+                "No puede respirar en el espacio"
+            ],
+            "relaciones_personales": [
+                "Debbie Greyson (madre)",
+                "Nolan Greyson/Omniman (padre)",
+                "Amber Bennett (novia)"
+            ],
+            "agenda": [
+                {
+                    "fecha": "2023-05-12",
+                    "evento": "Escuela secundaria"
+                },
+                {
+                    "fecha": "2023-05-13",
+                    "evento": "Entrenamiento con The Guardians of the Globe"
+                },
+                {
+                    "fecha": "2023-05-15",
+                    "evento": "Cena familiar"
+                }
+            ],
+            "patrocinadores": [
+                {
+                    "nombre": "Wayne Enterprises",
+                    "monto": 50000,
+                    "origen_dinero": "Industria tecnológica"
+                },
+                {
+                    "nombre": "Stark Industries",
+                    "monto": 75000,
+                    "origen_dinero": "Industria armamentística"
+                }
+            ],
+            "peleas": [
+                {
+                    "villano": "Robot",
+                    "resultado": "Victoria",
+                    "fecha": "2022-08-21"
+                },
+                {
+                    "villano": "Titan",
+                    "resultado": "Empate",
+                    "fecha": "2022-09-05"
+                },
+                {
+                    "villano": "Battle Beast",
+                    "resultado": "Derrota",
+                    "fecha": "2023-01-10"
+                }
+            ]
+        },
+        {
+            "nombre": "Atom Eve",
+            "imagen":"https://comicvine.gamespot.com/a/uploads/original/11132/111329670/8796311-4505906548-27728.jpg" ,
+            "edad": 19,
+            "habilidades": [
+                "Manipulación de la materia",
+                "Teletransportación",
+                "Generación de campos de fuerza"
+            ],
+            "debilidades": [
+                "No puede crear o manipular la vida"
+            ],
+            "relaciones_personales": [
+                "William Clockwell (novio)",
+                "Rex Sloan (amigo)"
+            ],
+            "agenda": [
+                {
+                    "fecha": "2023-05-12",
+                    "evento": "Reunión con el equipo de trabajo"
+                },
+                {
+                    "fecha": "2023-05-14",
+                    "evento": "Entrenamiento con The Guardians of the Globe"
+                },
+                {
+                    "fecha": "2023-05-16",
+                    "evento": "Cena con William"
+                }
+            ],
+            "patrocinadores": [
+                {
+                    "nombre": "Queen Industries",
+                    "monto": 100000,
+                    "origen_dinero": "Industria tecnológica"
+                }
+            ],
+            "peleas": [
+                {
+                    "villano": "Mauler Twins",
+                    "resultado": "Victoria",
+                    "fecha": "2022-12-05"
+                },
+                {
+                    "villano": "Machine Head",
+                    "resultado": "Victoria",
+                    "fecha": "2023-01-20"
+                }
+            ]
+        }
+    ]
+}

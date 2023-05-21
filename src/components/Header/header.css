@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  .header-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-left input {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .header-left button {
+    padding: 5px 10px;
+  }
+  
+  .header-right a {
+    margin-left: 10px;
+    text-decoration: none;
+  }
+  

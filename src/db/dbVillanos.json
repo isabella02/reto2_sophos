@@ -1,0 +1,54 @@
+{
+    "villanos": [
+        {
+            "nombre": "The Immortal",
+            "imagen":"https://cdn.donmai.us/original/38/59/3859774ef9f78adb51b4e522a5aca12e.jpg" ,
+            "edad": 3000,
+            "habilidades": [
+                "Inmortalidad",
+                "Fuerza sobrehumana",
+                "Regeneración celular",
+                "Habilidad para invocar a los muertos"
+            ],
+            "origen": "Antigua Roma",
+            "poder": "Control sobre la vida y la muerte"
+        },
+        {
+            "nombre": "Doc Seismic",
+            "imagen":"https://cdn.donmai.us/original/38/59/3859774ef9f78adb51b4e522a5aca12e.jpg" ,
+            "edad": 38,
+            "habilidades": [
+                "Manipulación sísmica",
+                "Creación de terremotos",
+                "Vuelo"
+            ],
+            "origen": "Desconocido",
+            "poder": "Creación de terremotos y ondas sísmicas"
+        },
+        {
+            "nombre": "Machine Head",
+            "imagen":"https://cdn.donmai.us/original/38/59/3859774ef9f78adb51b4e522a5aca12e.jpg" ,
+            "edad": 49,
+            "habilidades": [
+                "Habilidad para generar dinero",
+                "Control sobre el crimen organizado",
+                "Inteligencia superior"
+            ],
+            "origen": "Desconocido",
+            "poder": "Control sobre el dinero y los recursos de la ciudad"
+        },
+        {
+            "nombre": "Battle Beast",
+            "imagen":"https://cdn.donmai.us/original/38/59/3859774ef9f78adb51b4e522a5aca12e.jpg" ,
+            "edad": "Desconocido",
+            "habilidades": [
+                "Fuerza sobrehumana",
+                "Durabilidad sobrehumana",
+                "Habilidad en combate cuerpo a cuerpo",
+                "Teleportación"
+            ],
+            "origen": "Desconocido",
+            "poder": "Habilidad superior en el combate cuerpo a cuerpo"
+        }
+    ]
+}
