@@ -15,7 +15,7 @@
         },
         {
             "nombre": "Doc Seismic",
-            "imagen":"https://cdn.donmai.us/original/38/59/3859774ef9f78adb51b4e522a5aca12e.jpg" ,
+            "imagen":"https://s3.amazonaws.com/comicgeeks/characters/avatars/17325.jpg?t=1617221825" ,
             "edad": 38,
             "habilidades": [
                 "Manipulación sísmica",
@@ -27,7 +27,7 @@
         },
         {
             "nombre": "Machine Head",
-            "imagen":"https://cdn.donmai.us/original/38/59/3859774ef9f78adb51b4e522a5aca12e.jpg" ,
+            "imagen":"https://s3.amazonaws.com/comicgeeks/characters/avatars/19086.jpg?t=1621202707" ,
             "edad": 49,
             "habilidades": [
                 "Habilidad para generar dinero",
@@ -39,7 +39,7 @@
         },
         {
             "nombre": "Battle Beast",
-            "imagen":"https://cdn.donmai.us/original/38/59/3859774ef9f78adb51b4e522a5aca12e.jpg" ,
+            "imagen":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bbd40bfd-1136-4c82-9c75-e050eb44ab4d/del4wpr-4e3054e6-2212-4cd3-bcac-7abc37316527.jpg/v1/fill/w_900,h_1125,q_75,strp/battle_beast_by_joserealart_del4wpr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEyNSIsInBhdGgiOiJcL2ZcL2JiZDQwYmZkLTExMzYtNGM4Mi05Yzc1LWUwNTBlYjQ0YWI0ZFwvZGVsNHdwci00ZTMwNTRlNi0yMjEyLTRjZDMtYmNhYy03YWJjMzczMTY1MjcuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7fO-4WemA6DMCXvnuJxfEFJQ_Jh1ciSZ2WtDtI9ITOY" ,
             "edad": "Desconocido",
             "habilidades": [
                 "Fuerza sobrehumana",
