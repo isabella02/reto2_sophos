@@ -4,30 +4,15 @@ import ContainerMejoresH from './components/Heroes/ContainerMejoresH.tsx';
 import heroesData from './db/dbHeroes.json';
 import HeroCard from "./components/Heroes/HeroesContainer.tsx";
 import VillanoContenedor from "./components/Villanos/VillanosContenedores.tsx"
+import VillainsPage from './pages/VillainsPage.js';
+import HeroesPage from './pages/HeroesPage.js';
+import Router from './router/Router.tsx';
 
 function App() {
   return (
-    <div>
-      <Header />
-      {/* Resto del contenido de tu aplicación */}
-
-      <div>
-      <ContainerMejoresH />
-      </div>
-      <div className="App">
-        <h1>Mis Superhéroes</h1>
-        <div>
-        {heroesData.heroes.map((hero, index) => (
-          <HeroCard key={index} hero={hero} />
-        ))}
-        </div>
-
-        <div>
-          <VillanoContenedor/>        
-        </div>
-        
-    </div>
-    </div>
+    <>
+      <Router/>
+    </>
     
   );
 }

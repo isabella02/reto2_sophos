@@ -1,13 +1,17 @@
 .container {
     display: inline-flex; 
     flex-wrap: wrap;
-   justify-content: space-between;
-   text-align: center;
+    justify-content: space-between;
+    text-align: center;
 }
 .hero-card {
-    background-color: #f1f1f1;
-    padding: 20px;
-    margin-bottom: 20px;
+  width: 300px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f9f3e9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     
     
   }
@@ -78,4 +82,61 @@
   .blue {
     background-color: blue;
   }
+
+/* Estilos para el modal */
+.modal {
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 4px;
+  width: 400px;
+  max-height: 80vh;
+  overflow-y: auto;
+  position: relative;
+}
+.modal-content .villano-mas-peleado {
+  color: rgb(34, 193, 199);
+  font-weight: bold;
+}
+
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Estilos adicionales para el contenido del modal */
+.modal-content h3 {
+  margin-top: 0;
+}
+
+.modal-content ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.modal-content li {
+  margin-bottom: 10px;
+}
+
+.modal-content p {
+  margin: 0;
+}
+
   

@@ -1,11 +1,11 @@
 import React from 'react';
 import './VillainCard.css';
 import villainsData from '../../db/dbVillanos.json';
-
-const VillainCard = () => {
+type MyProps = { villanos: any};
+const VillainCard = ({villanos}: MyProps) => {
   return (
     <div className="villains-container">
-      {villainsData.villanos.map((villano, index) => (
+      {villanos.map((villano, index) => (
         <div className="villain-card" key={index}>
           <div className="villain-info">
             <div className="villain-image-container">

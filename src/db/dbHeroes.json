@@ -59,6 +59,11 @@
                     "villano": "Battle Beast",
                     "resultado": "Derrota",
                     "fecha": "2023-01-10"
+                },
+                {
+                    "villano": "Battle Beast",
+                    "resultado": "Derrota",
+                    "fecha": "2023-01-10"
                 }
             ]
         },
@@ -111,6 +116,68 @@
                     "fecha": "2023-01-20"
                 }
             ]
-        }
+        },
+        {
+            "nombre": "Diana Prince",
+            "imagen": "https://w0.peakpx.com/wallpaper/696/119/HD-wallpaper-wonder-woman-dc-comic-diana-prince-gal-gadot-justice-league.jpg",
+            "edad": 28,
+            "habilidades": [
+              "Super fuerza",
+              "Agilidad sobrehumana",
+              "Vuelo",
+              "Lazo de la verdad"
+            ],
+            "debilidades": [
+              "Pérdida de sus poderes si la atan con un lazo dorado"
+            ],
+            "relaciones_personales": [
+              "Steve Trevor (interés romántico)",
+              "Hippolyta (madre)"
+            ],
+            "agenda": [
+              {
+                "fecha": "2023-05-12",
+                "evento": "Rescatar civiles en un desastre natural"
+              },
+              {
+                "fecha": "2023-05-13",
+                "evento": "Investigar actividad criminal en la ciudad"
+              },
+              {
+                "fecha": "2023-05-15",
+                "evento": "Entrenamiento en Themyscira"
+              }
+            ],
+            "patrocinadores": [
+              {
+                "nombre": "Amazon Technologies",
+                "monto": 100000,
+                "origen_dinero": "Industria tecnológica"
+              },
+              {
+                "nombre": "Wayne Enterprises",
+                "monto": 75000,
+                "origen_dinero": "Industria tecnológica"
+              }
+            ],
+            "peleas": [
+              {
+                "villano": "Ares",
+                "resultado": "Victoria",
+                "fecha": "2022-08-21"
+              },
+              {
+                "villano": "Cheetah",
+                "resultado": "Empate",
+                "fecha": "2022-09-05"
+              },
+              {
+                "villano": "Maxwell Lord",
+                "resultado": "Victoria",
+                "fecha": "2023-01-10"
+              }
+            ]
+          }
+          
     ]
 }

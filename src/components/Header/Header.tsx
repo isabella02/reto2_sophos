@@ -1,5 +1,6 @@
 import React from 'react';
 import '../Header/header.css';
+import { Link } from 'react-router-dom';
 
 function Header() {
   return (
@@ -9,8 +10,9 @@ function Header() {
         <button>Buscar</button>
       </div>
       <div className="header-right">
-        <a href="/">Enlace 1</a>
-        <a href="/">Enlace 2</a>
+        <Link to="/"> HOME </Link>
+        <Link to="/heroes"> HEROES </Link>
+        <Link to="/villanos"> VILLANOS </Link>
       </div>
     </header>
   );
