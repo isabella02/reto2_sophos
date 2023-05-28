@@ -1,7 +1,7 @@
 
 ## Available Scripts
 
-En este proyecto puedes correr los siguientes comandos:
+En este proyecto puedes correr el siguientes comandos:
 
 ### `npm start`
 
@@ -10,57 +10,21 @@ Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 
 la pagina se actualizara cuando hagas cambios.\
 
-### `npm test`
+### DESCRIPCIÓN DEL SERVICIO
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+El servicio web desarrollado es una plataforma que proporciona una amplia gama de características y funcionalidades a sus usuarios especialmente a The Guardians of the Globe. El objetivo principal del servicio es permitir a los usuarios realizar diversas actividades relacionadas a los super héroes y villanos de la galaxia, todo esto de manera eficiente y conveniente a través de la web.
+El servicio se basa en una arquitectura cliente-servidor, donde los usuarios acceden a la plataforma a través de un navegador web y se comunican con el servidor para solicitar y recibir información. La plataforma cuenta con una interfaz de usuario intuitiva y amigable, que facilita la navegación y el uso de las diversas funciones.
 
-### `npm run build`
+### FUNCIONALIDADES PRINCIPALES
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+El servicio web ofrece una variedad de funcionalidades a sus usuarios. A continuación, se enumeran algunas de las funcionalidades principales del servicio:
+1.	Búsqueda de super héroes 
+2.	Perfiles de los super héroes y villanos.
+3.	Creación de villanos.
+4.	Búsqueda por habilidades, nombres, edad.
+5.	Opciones de ver patrocinadores, peleas, agendas y más datos de los héroes.
+6.	Filtrado de los 3 mejores heroes.
+Estas funcionalidades se implementan utilizando las tecnologías y herramientas mencionadas anteriormente, teniendo en cuenta los requisitos y necesidades de los usuarios.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Clase UML](https://github.com/isabella02/reto2_sophos/assets/82828398/0e04cf1b-a934-4b64-acc4-15ac28c0345b)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
