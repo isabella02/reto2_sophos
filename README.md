@@ -28,3 +28,10 @@ Estas funcionalidades se implementan utilizando las tecnologías y herramientas 
 
 ![Clase UML](https://github.com/isabella02/reto2_sophos/assets/82828398/0e04cf1b-a934-4b64-acc4-15ac28c0345b)
 
+![image](https://github.com/isabella02/reto2_sophos/assets/82828398/1ea29835-fe71-4c78-a769-823d827a93f1)
+
+![image](https://github.com/isabella02/reto2_sophos/assets/82828398/aa56ab8e-7c16-44d1-9ee1-0906d0fd63d1)
+![image](https://github.com/isabella02/reto2_sophos/assets/82828398/a019daae-4949-469c-beb1-debe36e44280)
+
+
+
